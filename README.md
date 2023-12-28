@@ -1,26 +1,37 @@
 # csun-pathfinder-automation
 
 ## Overview
-This repository contains the implementation and comparison of Kruskal's and Prim's Minimum Spanning Tree (MST) algorithms, along with associated project documentation.
+This project focuses on utilizing Kruskal’s Minimum Spanning Tree Algorithm to map the walkways at California State University, Northridge (CSUN). The objective is to achieve optimal path connectivity for a line follower robot, enhancing campus operations through task automation.
 
 ### Files
-- `KruskalsMST_v2.java`: Java source code for Kruskal's algorithm.
-- `PrimsMST.java`: Java source code for Prim's algorithm.
-- `Project output_Kruskals Run Results from Java source code.txt`: Output results of Kruskal's algorithm run.
-- `Prim's Results and Data set.docx`: Documentation and results for Prim's algorithm.
+- `kruskals.java`: Java source code for Kruskal's algorithm.
+- `prims.java`: Java source code for Prim's algorithm.
+- `kruskalsOutput.pdf`: Output results of Kruskal's algorithm run.
+- `primsOutput.pdf`: Output results of Prim's algorithm run .
 - `Team6 Members Contributions.docx`: Contributions of team members to the project.
-- `Team 6 Kruskal's Algorithm Project Part3_v5.pptx`: PowerPoint presentation summarizing the project.
+- `csun-robot-presentation.pptx`: PowerPoint presentation summarizing the project.
 
 ## Data Set Image
-![Data Set Image](dataset_image.png)
+![Data Set Image](dataset.jpg)
 
 ## Usage
-1. Open `KruskalsMST_v2.java` and `PrimsMST.java` for algorithm implementations.
+1. Open `kruskals.java` and `prims.java` for algorithm implementations.
 2. Review the output files for the results of Kruskal's and Prim's algorithms.
-3. Explore the PowerPoint presentation (`Team 6 Kruskal's Algorithm Project Part3_v5.pptx`) for an overview of the project.
+3. Explore the PowerPoint presentation (`csun-robot-presentation.pptx`) for an overview of the project.
 
 ## Contributors
-- [List of Contributors and Contributions](Team6%20Members%20Contributions.docx)
+
+**Mishek Sambahangphe:**
+- Data set collection
+- Adapting source code
+- Google Maps and graphics (spanning tree)
+- Zoom presentations
+
+**Cesar Gonzalez:**
+- Data set collection
+- PowerPoint presentation
+- Library and online research
+- Zoom presentations
 
 ## Notes
 - The project aimed to compare the efficiency of Kruskal's and Prim's MST algorithms using a specific data set.
