@@ -8,7 +8,6 @@ This project focuses on utilizing Kruskal’s Minimum Spanning Tree Algorithm to
 - `prims.java`: Java source code for Prim's algorithm.
 - `kruskalsOutput.pdf`: Output results of Kruskal's algorithm run.
 - `primsOutput.pdf`: Output results of Prim's algorithm run .
-- `Team6 Members Contributions.docx`: Contributions of team members to the project.
 - `csun-robot-presentation.pptx`: PowerPoint presentation summarizing the project.
 
 ## Data Set Image
